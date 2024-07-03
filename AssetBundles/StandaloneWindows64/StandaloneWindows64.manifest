@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2816154217
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: inventoryview.bundle
+      Dependencies: {}
